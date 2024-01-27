@@ -1,6 +1,6 @@
 # gojek_buatan_arhan
 
-Gak mirip2 bet kek aplikasi aslinya (sekedar iseng)
+Gak mirip2 bet kek aplikasi aslinya (sekedar iseng) 
 
 ## Getting Started
 
