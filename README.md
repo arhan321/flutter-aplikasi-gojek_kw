@@ -1,6 +1,6 @@
 # gojek_buatan_arhan
 
-A new Flutter project.
+Gak mirip2 bet kek aplikasi aslinya (sekedar iseng)
 
 ## Getting Started
 
